@@ -1,0 +1,6 @@
+{
+  "name": "Tomato Official",
+  "description": "Interactive learning platform with Tomato Student Portal and Uploader Studio. Features personal notes vault, PDF document uploader, AI notes summarizer, practice quizzes, arcade games, and AI Guru assistant.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
